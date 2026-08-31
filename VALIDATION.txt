@@ -1,0 +1,15 @@
+STATIC VALIDATION REPORT
+
+Checks performed:
+- No Chinese characters in R scripts
+- No interactive file.choose() calls
+- No absolute local Windows drive paths
+- No bare manuscript figure labels used as R expressions
+- Figure S1 uses fixed English input names
+- Legacy Figure S1 output-name collision removed from Figure 1A
+
+No blocking issues were found by static validation.
+
+Important limitation:
+Full numerical execution was not performed because source data are not included in this archive.
+The scripts therefore remain subject to end-to-end runtime validation when the corresponding source data are available.

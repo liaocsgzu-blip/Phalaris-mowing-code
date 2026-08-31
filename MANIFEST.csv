@@ -1,0 +1,12 @@
+Order,Manuscript figure,Code file,Analysis
+01,Figure 1A,01_Fig1A_long_term_trajectories.R,Long-term plant and soil trajectories
+02,Figure 1B-C,02_Fig1BC_yield_predictor_importance.R,Relative importance of productivity predictors
+03,Figure 2A-B,03_Fig2AB_random_forest_Boruta_key_taxa.R,"Random forest, RFCV, and Boruta key-taxon screening"
+04,Figure 2C,04_Fig2C_key_taxa_profile_contribution.R,"BS, RS, and RT contribution analysis of key taxa"
+05,Figure 3A-D,05_Fig3A-D_RT_taxa_regressions.R,Focal RT taxa regressions
+06,Figure 3E,06_Fig3E_RS_RT_BS_association_network.R,RS–RT–BS association network
+07,Figure 3F-G,07_Fig3FG_root_metabolite_pathway_analysis.R,Root metabolite and pathway analysis
+08,Figure 4 and Figure S2,08_Fig4_and_FigS2_RT_functional_coexpression_PLS.R,RT functional co-expression and cross-year PLS
+09,Figure 5A-D,09_Fig5_SEM_and_shared_variance.R,SEM comparison and shared explanatory variance
+10,Figure S1A-B,10_FigS1_NMDS_and_ternary_enrichment.R,NMDS trajectories and ternary enrichment
+11,Figure S3A-B,12_FigS3_extended_yield_path_sensitivity_SEM.R,Extended Yield-path SEM sensitivity analysis
