@@ -1,4 +1,4 @@
-# Nature Communications code package
+# Code package
 ## Figures 1-5 and Supplementary Figures S1-S3
 
 This archive contains the English-only R scripts corresponding to the final main and supplementary figures.
