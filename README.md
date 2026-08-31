@@ -38,5 +38,3 @@ The code archive does not include source data. The upload-ready scripts use the 
 For `main_plant_soil_data.xlsx`, the standardized sheet names used in the scripts are `Plant`, `Soil`, and `CarbonUse`.
 
 The statistical analysis logic, model structures, thresholds, random seeds, standardization procedures, and feature definitions were retained from the author-supplied scripts. Packaging edits were restricted to English-language standardization, portable file handling, final figure numbering, and removal of legacy output-name conflicts.
-
-Source data are not included in this archive.
